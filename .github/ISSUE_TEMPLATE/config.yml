@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Questions
+    url: https://github.com/haithemnini/badilk-app/discussions
+    about: Ask questions and discuss ideas
+  - name: 📧 Email Support
+    url: mailto:contact@badilk.com
+    about: Contact us directly via email
+  - name: 💬 Telegram Community
+    url: https://t.me/badilk_support
+    about: Join our Telegram community for quick help
+  - name: 📚 Documentation
+    url: https://badilk.com/support
+    about: Read our comprehensive documentation
