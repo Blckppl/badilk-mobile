@@ -127,14 +127,6 @@
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
 </a>
 
-<a href="https://apps.apple.com/app/badilk">
-  <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png" alt="Download on App Store" height="80">
-</a>
-
-### 🌐 Or Try the Web Version
-
-**[Launch Web App](https://badilk.com/app)** - No installation required!
-
 </div>
 
 ---
@@ -146,11 +138,6 @@
 | Platform | Minimum Version | Status |
 |----------|----------------|--------|
 | 🤖 **Android** | 5.0 (API 21+) | ✅ Fully Supported |
-| 🍎 **iOS** | 12.0+ | ✅ Fully Supported |
-| 🌐 **Web** | Modern Browsers | ✅ Fully Supported |
-| 🪟 **Windows** | 10+ | ✅ Fully Supported |
-| 🐧 **Linux** | Ubuntu 18.04+ | ✅ Fully Supported |
-| 🍎 **macOS** | 10.14+ | ✅ Fully Supported |
 
 </div>
 
@@ -210,17 +197,12 @@
 | Device Search | ✅ | ✅ |
 | Basic Filters | ✅ | ✅ |
 | Advanced Filters | ❌ | ✅ |
-| Favorites | 10 devices | ♾️ Unlimited |
+| Favorites | ♾️ Unlimited | ♾️ Unlimited |
 | Ad-Free Experience | ❌ | ✅ |
 | Priority Support | ❌ | ✅ |
 | Exclusive Content | ❌ | ✅ |
-| Offline Mode | Limited | ✅ Full |
 | Export Data | ❌ | ✅ |
 | Early Access | ❌ | ✅ |
-
-### 🎁 Try Premium FREE for 7 Days!
-
-**[Upgrade to Premium](https://badilk.com/premium)**
 
 </div>
 
@@ -347,12 +329,6 @@ We update our database daily with new devices, brands, and compatibility informa
 </details>
 
 <details>
-<summary><b>Can I use Badilk offline?</b></summary>
-<br>
-You can access your saved favorites offline. Full search and browsing require an internet connection. Premium users get enhanced offline capabilities.
-</details>
-
-<details>
 <summary><b>Which platforms are supported?</b></summary>
 <br>
 Badilk is available on Android (5.0+), iOS (12.0+), Web, Windows (10+), Linux, and macOS (10.14+). Download links are available above.
@@ -402,7 +378,6 @@ Yes! We offer business plans for repair shops, accessory stores, and distributor
 | 🌐 **Help Center** | [badilk.com/support](https://badilk.com/support) | Instant |
 | 💬 **Telegram Community** | [@badilk_support](https://t.me/badilk_support) | < 12 hours |
 | 🐛 **Report Bug** | [GitHub Issues](https://github.com/haithemnini/badilk-app/issues) | 48 hours |
-| 💡 **Feature Request** | [GitHub Discussions](https://github.com/haithemnini/badilk-app/discussions) | Community Driven |
 
 ### Premium Support 👑
 Premium users get **priority support** with response times under 6 hours!
@@ -448,7 +423,7 @@ Found a bug? We want to hear about it!
 
 ## 📰 Latest Updates
 
-### Version 1.0.1 (January 2026)
+### Version 1.0.2 (January 2026)
 - ✨ Added 500+ new device models
 - 🐛 Fixed search filter issues
 - 🎨 UI/UX improvements
@@ -473,22 +448,6 @@ Your privacy is our top priority:
 **[Read Full Privacy Policy →](https://badilk.com/privacy)**
 
 ---
-
-## 📱 Connect With Us
-
-<div align="center">
-
-### Join Our Community! 🌟
-
-[![Website](https://img.shields.io/badge/🌐_Website-badilk.com-4285F4?style=for-the-badge)](https://badilk.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/badilk)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/badilk)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/badilk)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/badilk)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@badilk)
-
-**Stay updated with the latest features, tips, and device additions!**
-
 </div>
 
 ---
@@ -511,23 +470,7 @@ Perfect for:
 - 🤝 API access (coming soon)
 - 💰 Special pricing for businesses
 
-**Interested?** Contact us: **business@badilk.com**
-
----
-
-## 🏆 Awards & Recognition
-
-<div align="center">
-
-| 🏅 Award | 📅 Year | 🏛️ Organization |
-|---------|--------|----------------|
-| 🥇 Best Utility App of the Year | 2025 | Mobile Excellence Awards |
-| ⭐ Editor's Choice | 2025 | Google Play Store |
-| 🚀 Fastest Growing App (Middle East) | 2024 | App Annie |
-| 💎 Top Developer | 2024 | Google Play Store |
-| 🌟 App of the Day | 2024 | App Store (Iraq) |
-
-</div>
+**Interested?** Contact us: **contact@badilk.com**
 
 ---
 
@@ -549,11 +492,8 @@ Perfect for:
 |----------|--------|------|
 | 🇬🇧 English | ✅ Available | `en` |
 | 🇸🇦 العربية (Arabic) | ✅ Available | `ar` |
-| 🇫🇷 Français (French) | 🔜 Coming Soon | `fr` |
-| 🇪🇸 Español (Spanish) | 🔜 Coming Soon | `es` |
-| 🇹🇷 Türkçe (Turkish) | 🔜 Coming Soon | `tr` |
 
-**Want to help translate?** Contact us at translate@badilk.com
+**Want to help translate?** Contact us at Contact@badilk.com
 
 </div>
 
@@ -619,7 +559,7 @@ It helps us reach more users and motivates us to keep improving the app.
 
 **© 2026 Badilk. All Rights Reserved.**
 
-**Version 1.0.1** • **Last Updated: January 2026**
+**Version 1.1.2** • **Last Updated: January 2026**
 
 ---
 
